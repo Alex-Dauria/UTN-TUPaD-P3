@@ -1,15 +1,18 @@
-# 💻 Programación 3  
-**Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+# 💻 Programación 3
+**Tecnicatura Universitaria en Programación**
+📍 *Universidad Tecnológica Nacional*
 
-## ✨ Estudiante  
-- **Nombre:** Dauria, Alex Pedro 
+## ✨ Estudiante
+- **Nombre:** Dauria, Alex Pedro
 - **Comisión:** M2025-6
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todos los trabajos prácticos realizados durante la cursada de **Programación 3**.  
+## 📂 Proyecto: Food Store
+Aplicación web del proyecto **Food Store**, desarrollada incrementalmente a lo largo de los trabajos prácticos de la cursada.
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.java`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+📌 **Estructura del proyecto:**
+- `index.html` — Catálogo de productos (generado dinámicamente con JS)
+- `admin.html` — Panel de administración
+- `login.html` — Página de inicio de sesión
+- `css/` — Hojas de estilo externas
+- `js/` — Lógica y datos en JavaScript
+- `assets/` — Imágenes del catálogo
